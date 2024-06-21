@@ -162,7 +162,7 @@ const experiences: TExperience[] = [
   {
     title: "BI Developer Virtual Intern",
     companyName: "PWC Switzerland",
-    icon: tesla,
+    icon:"/assets/626px-Logo-pwc.png",
     iconBg: "#E6DEDD",
     date: "April 2023 - May 2023",
     points: [
@@ -188,16 +188,18 @@ const experiences: TExperience[] = [
     ],
   },
   {
-    title: "Full stack Developer",
-    companyName: "Meta",
+    title: "Backend Developer",
+    companyName: "Tecjaunt",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Spearheaded development and delivery of multiple web applications, overseeing a team of frontend and backend developers.",
+      "Leveraged expertise in backend technologies to design and implement robust, scalable solutions.",
+      "Mentored and guided junior developers, fostering a collaborative and high-performing team environment.",
+      "Demonstrated proficiency in full-stack development, contributing to both frontend and backend technologies.",
+      "Proactively identified and resolved technical issues, ensuring optimal performance and seamless user experiences.",
+    
     ],
   },
 ];
